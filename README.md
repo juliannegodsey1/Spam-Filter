@@ -24,3 +24,6 @@ The app detects the following spam patterns in messages:
 - CSS
 - JavaScript
 
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
